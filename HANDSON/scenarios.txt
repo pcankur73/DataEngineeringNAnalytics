@@ -1,0 +1,22 @@
+Scenario: Tour Management System
+
+Tables:
+
+a) Customer
+b) Trip
+c) Staff
+d) Tours
+
+Find out number of tours happened in last 5 years
+
+Scenario: Ticket Management System
+
+Tables:
+
+a) User
+b) Issue
+c) Staff
+d) Tickets
+
+Find out number of open issues after year end [31st December]
+
