@@ -1,0 +1,12 @@
+1. Write a Python program that stores elements in a list and prints them.
+2. Write a Python program to read n values in a list and display them in reverse order.
+3. Write a program in Python to find the sum of all list elements.
+4. Write a Python program to copy the elements of one list into another list.
+5. Write a Python program in to count duplicate elements in a list.
+6. Write a program in Python to print all unique elements in a list.
+7. Write a Python program to merge two lists of the same size sorted in ascending order.
+8. Write a Python program to count the frequency of each element in a list.
+9. Write a Python program to find the maximum and minimum elements in a list.
+10. Write a program in Python to separate odd and even integers into separate lists.
+11. Write a Python program to sort elements of a list in ascending order.
+12. Write a Python program to sort list elements in descending order.
