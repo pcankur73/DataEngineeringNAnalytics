@@ -1,0 +1,43 @@
+### **Basic Level**
+1. **Write a function** to print "Hello, World!".
+2. **Write a function** that takes a name as input and prints "Hello, [Name]".
+3. **Write a function** that takes two numbers as arguments and returns their sum.
+4. **Write a function** that returns the maximum of three numbers.
+5. **Write a function** that checks if a number is even or odd.
+6. **Write a function** that takes a string and returns its length.
+7. **Write a function** to calculate the square of a number.
+8. **Write a function** to check if a number is prime.
+9. **Write a function** that reverses a string.
+10. **Write a function** that takes a list as input and returns the sum of all elements.
+
+
+
+
+
+
+### **Intermediate Level**
+11. **Write a function** to calculate the factorial of a number.
+12. **Write a function** that returns the Fibonacci series up to `n` terms.
+13. **Write a function** to check if a string is a palindrome.
+14. **Write a function** to find the greatest common divisor (GCD) of two numbers.
+15. **Write a function** to find the least common multiple (LCM) of two numbers.
+16. **Write a function** that takes a list and returns a new list with only unique elements.
+17. **Write a function** to count the occurrences of each element in a list.
+18. **Write a function** that checks if a given year is a leap year.
+19. **Write a function** that takes a list of numbers and returns the second largest number.
+20. **Write a function** that converts Celsius to Fahrenheit and vice versa.
+
+
+
+
+### **Advanced Level**
+21. **Write a function** that returns the power of a number using recursion.
+22. **Write a function** that sorts a list using the Bubble Sort algorithm.
+23. **Write a function** that implements binary search.
+24. **Write a function** to check if a given number is an Armstrong number.
+25. **Write a function** to generate all prime numbers up to `n`.
+26. **Write a function** to compute the sum of digits of a number recursively.
+27. **Write a function** that takes a sentence and returns the number of vowels and consonants.
+28. **Write a function** to find the intersection of two lists.
+29. **Write a function** to check if a given string is an anagram of another string.
+30. **Write a function** to implement a simple calculator using function arguments.
