@@ -1,0 +1,21 @@
+There is a book library. Define classes respectively for a book and a library.
+
+The library must contain a name and a list of books.
+
+The books must contain the title, author, publisher, release date and ISBN-number.
+
+In the class, which describes the library, create methods:-
+
+to add a book to the library,
+to search for a book by a predefined author,
+to display information about a book and
+to delete a book from the library.
+
+We have a school. In school we have classes and students. Each class has a number of teachers. Each teacher has a variety of disciplines taught. Students have a name and a unique number in the class. Classes have a unique text identifier. Disciplines have a name, number of lessons and number of exercises. The task is to shape a school with Python classes.
+
+Define a class Shape with a method CalculateSurface() and attributes width and height. Define two additional classes for a triangle and a rectangle, which implement CalculateSurface(). This method has to return the areas of the rectangle (height*width) and the triangle (height*width/2). Define a class for a circle with an appropriate constructor, which initializes the two fields (height and width) with the same value (the radius) and implement the method for calculating the area.
+
+A bank holds different types of accounts for its customers: deposit accounts, loan accounts and mortgage accounts. Customers can be individuals or companies. All accounts have a customer, balance and interest rate (monthly based). Deposit accounts allow depositing and withdrawing of money. Loan and mortgage accounts allow only depositing. All accounts can calculate their interest for a given period (in months). In the general case, it is calculated as follows: number_of_months * interest_rate. Loan accounts have no interest rate during the first 3 months if held by individuals and during the first 2 months if held by a company. Deposit accounts have no interest rate if their balance is positive and less than 1000. Mortgage accounts have ½ the interest rate during the first 12 months for companies and no interest rate during the first 6 months for individuals. Your task is to write an object-oriented model of the bank system. 
+
+Implement the following classes: Dog, Frog, Cat, Kitten and Tomcat. All of them are animals (Animal). Animals are characterized by age, name and gender. Each animal makes a sound (use a method in the Animal class). Create a list of different animals and print on the console their name, age and the corresponding sound each one makes.
+
