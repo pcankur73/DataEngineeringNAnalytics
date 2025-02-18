@@ -1,0 +1,50 @@
+Installation Why do we need Python?
+Interactive Shell
+Executable of Script files
+IDE - Python IDLE, Jupyter Notebook, Spyder, VSCode, PyCharm, Orange
+Characteristics & Features of Python
+Expressions & Operators
+Simple data types: Numbers and Strings Complex data types: Lists, Tuples, Dictionaries and Sets
+Boolean Shallow and deep copies
+If condition
+If-else condition
+If-elif-else For loop While loop
+Break
+Continue
+Pass
+Defining a function Function with arguments Positional & Default arguments Variable positional arguments Variable keyword arguments Keyword-only arguments
+Different ways to pass values Functions as return values Recursion
+Iterator Functions Generator Functions Closures Decorators
+Lambda Functions
+List Comprehension
+Dictionary Comprehension
+Regex
+Format operators
+Hashing
+Map, Filter, Reduce
+Modules, Sub Modules
+Math, OS, date, time, datetime, random, Statistics & sys modules
+Installing external modules
+Creating custom modules
+Opening and closing files Different read functions Writing to file Different modes - r+ and a+
+Reading and writing JSON, Excel, CSV data Transforming Python Objects into JSON Transforming Python Objects into CSV Different CSV dialects
+Object Serialization - yaml, json
+try and except blocks Defining custom Exception Handlers The Exception Hierarchy Chaining except Blocks Using Python shell Using Command-Line Arguments in a script Overview of argparse
+Classes Objects Inheritance Class attributes Methods Private and public members Class and instance variables Getters and Setters Subclass and Superclass Multiple and multilevel inheritance Polymorphism Special methods - repr, str, add, sub, mul, etc. Built-in functions and custom data types Defining properties in classes Defining properties using decorators
+Use package mysql-connector-python
+Create database connection
+Create database
+DDL Statements
+DML Statements
+TCL Statements
+Array Creation Basic Operations Universal Functions Indexing, Slicing and Iterating Reshaping Arrays Images as Arrays Image Manipulation Views and Numpy Arrays Deep Copies of Arrays Index Masks Array Broadcasting
+Introduction to Pandas Pandas data structure - Series, DataFrame, Panel Handling Missing Data (isnull(), dropna(), fillna())
+Renaming Columns and Rows
+Data Transformation with apply(), map(), and applymap()
+String Manipulations with str
+Grouping Data (groupby())
+Data Aggregation (sum(), mean(), count(), agg())
+Sorting and Ranking Data (sort_values(), sort_index(), rank())
+Merge, join, concatenate and compare -concat(),merge(),DataFrame.join(),merge_ordered(),merge_asof(),compare()
+Reshaping and pivot tables -pivot() and pivot_table(),stack() and unstack(),melt() and wide_to_long(),get_dummies() and from_dummies(),explode(),crosstab(),cut(),factorize()
+Time Series Data in Pandas Pandas for Visualizations & Time-Series Data Compute & Visualize Statistics Basic Data Visualization Using Matplotlib Advanced Data Visualization using Seaborn
