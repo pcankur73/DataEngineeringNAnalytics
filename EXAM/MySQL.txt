@@ -1,0 +1,38 @@
+MySQL
+======
+Database Fundamentals
+What is a Database?
+What is DBMS?
+DBMS vs File System
+DBMS Architecture
+Three-level DBMS architecture
+Data Models
+Data Models and Types of Data Models
+What is and Entity Relationship Diagram (ER Diagram)?
+Components of an ER Diagram
+Relationship
+One to One
+One to Many
+Many to One
+Many to Many
+Relational Database concepts
+RDBMS Concepts
+Keys in DBMS
+Normalization
+Normalization
+First normal form(1NF)
+Second normal form(2NF)
+Third normal form(3NF)
+Boyce & Codd normal form (BCNF)
+ACID Theorem
+Introduction to SQL
+Basic terminology
+Explain the basic DDL, DML commands
+Reading data using a SELECT statement
+What can be done using a SELECT statement?
+Functions
+Data types
+Joins, set operators, Sub Queries
+Inserting, updating, and deleting data
+Creating tables
+Creating Views
